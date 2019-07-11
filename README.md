@@ -2,4 +2,4 @@
 
 ### API used
 
-[Open Weathermap API](https://api.openweathermap.org/) API is used which gives hourly update on weather.
+[Open Weathermap](https://api.openweathermap.org/) API is used which gives hourly update on weather.
